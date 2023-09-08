@@ -315,7 +315,7 @@ def home():
    if 'logged_in' in session:
          conn = mysql.connect
          cursor = conn.cursor()
-         API='a3hwhhje'+'b1ae5b8ab7mshdae051681457ddep1fbd4cjsn1a204c61719d'+'ewixba123edbdjq'
+         API='shwdwiougyuytrtr5ew4e56ty7r5rtsdwdw56tfvfsd'
          
          cursor.execute("SELECT* from api where id=%s",(1,))
          result=cursor.fetchone()
