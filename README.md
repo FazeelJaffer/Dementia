@@ -164,13 +164,8 @@ Your environment after installing everything from `requirements.txt` will have e
 Check out [this guide](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) for an overview of how these tools fit toghether.
 <!-- CONTRIBUTING -->
 ## Contributors
-* [Moin Bashir Zargar](https://github.com/MoinZargar)
-* [Faisal Shafi](https://github.com/fasil-code)
 * [Fazeel Jaffer](https://github.com/fazeel-jaffer)
-* [Zahoor Ahmad](https://github.com/Xahoor72)
-* [Haseeb Hijazi Khan](https://github.com/HaseebH-Khan)
-
-
+* [Moin Bashir Zargar](https://github.com/MoinZargar)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -178,7 +173,7 @@ Check out [this guide](https://blog.miguelgrinberg.com/post/the-flask-mega-tutor
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are ***greatly appreciated***.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -206,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/fasil-code/intern](https://github.com/fasil-code/intern)
+Project Link: [https://github.com/jcena123/Dementia](https://github.com/jcena123/Dementia)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
